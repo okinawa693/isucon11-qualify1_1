@@ -19,4 +19,5 @@
 .git-credentials
 .mysql_history
 go/
+!webapp/go/
 .gitcredentials
