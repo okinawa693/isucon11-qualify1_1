@@ -20,5 +20,6 @@
 .mysql_history
 go/
 !webapp/go/
-!local/go/
+bench/
+local/
 .gitcredentials
