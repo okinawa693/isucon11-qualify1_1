@@ -20,4 +20,5 @@
 .mysql_history
 go/
 !webapp/go/
+!local/go/
 .gitcredentials
